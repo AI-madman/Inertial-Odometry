@@ -1,0 +1,19 @@
+[1] A Multi-State Constraint Kalman Filter for Vision-aided Inertial Navigation,
+    by Anastasios I. Mourikis and Stergios I. Roumeliotis,
+    published on September 28, 2006.
+    Link: https://intra.ece.ucr.edu/~mourikis/tech_reports/TR_MSCKF.pdf.
+    
+[2] THE KITTI VISION BENCHMARK SUITE: RAW DATA RECORDING,
+    by Andreas Geiger    Philip Lenz    Raquel Urtasun ,
+    Link: https://github.com/pratikac/kitti/blob/master/readme.raw.txt.
+    
+[3] Stereo odometry based on careful feature selection and tracking,
+    by gor Cvisic and Ivan Petrovic, 
+    published on September 2015.
+    Link: https://www.researchgate.net/publication/308728729_Stereo_odometry_based_on_careful_feature_selection_and_tracking
+    
+[4] Stereo-Odometry-SOFT by Mayank Mittal.
+    Link: https://github.com/Mayankm96/Stereo-Odometry-SOFT.
+
+[5] KITTI DATASET by Anastasios I. Mourikis and Stergios I. Roumeliotis,
+    Link: http://www.cvlibs.net/datasets/kitti/
